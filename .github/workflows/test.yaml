@@ -7,4 +7,4 @@ jobs:
     steps:
       - name: Run Test
         run: |
-          timeout 10s docker run ghcr.io/malken21/bure_loop:latest
+          docker run ghcr.io/malken21/buri_loop:latest
