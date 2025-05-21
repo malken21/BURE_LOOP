@@ -1,6 +1,6 @@
-# BURE_LOOP
+# BURI_LOOP
 
-無限に BURE と出力する AArch64 アセンブラ
+無限に BURI と出力する AArch64 アセンブラ
 
 AArch64 以外では動作しません。
 
