@@ -1,0 +1,10 @@
+name: Test Docker Image
+on:
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - name: Run Test
+        run: |
+          timeout 10s docker run ghcr.io/malken21/bure_loop:latest
