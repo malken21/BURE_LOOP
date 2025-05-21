@@ -4,6 +4,8 @@
 
 AArch64 以外では動作しません。
 
+![Demo Video](.github/assets/demo.gif)
+
 ## 使い方
 
 ```shell
